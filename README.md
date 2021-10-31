@@ -23,4 +23,9 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 - Mailing list: http://groups.google.com/group/phoenix-talk
 - Source: https://github.com/phoenixframework/phoenix
 
+## Contributors
+
+- [Lucas Brabec](https://github.com/Brabec)
+- [Eduardo Neves](https://github.com/snowedz)
+
 # Elixir-Chat
